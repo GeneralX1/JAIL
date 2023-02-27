@@ -9,7 +9,7 @@
 		"email": "seba.armeli@gmail.com"
 	},
 	"dependencies": {
-		"jquery": "~3.5.0"
+		"jquery": "~3.6.3"
 	},
 	"devDependencies": {
 		"jasmine-jquery": "~1.3.3",
